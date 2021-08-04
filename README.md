@@ -9,7 +9,7 @@
 ### :zero: About
 I'm a **.NET** Developer and also a full-time learner. :blush::orange_book: </br>
 Since a young age I've always liked to build things. :hammer::wrench:</br>
-So here I am, building software stuff! :computer:
+So here I am, building software stuff! :computer::rocket:
 
 ### :one: Facts and Info
 + :seedling: I love helping others :smiley:, so if I can be of **any** assisstance don't hesitate to contact me.
