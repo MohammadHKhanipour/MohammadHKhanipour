@@ -18,7 +18,6 @@ So here I am, building software stuff! :computer::rocket:
   :red_circle: [Steve Jobs' 2005 Stanford Commencement Address
 ](https://www.youtube.com/watch?v=UF8uR6Z6KLc)
 + :video_game: Kinda a Minecraft veteran :sunglasses:
-+ :speech_balloon: Most favorite string ever: `"Hello World!"` :heart:
 + :handshake: Looking to collaborate on more projects.
 + :key: Currently working with:
 
