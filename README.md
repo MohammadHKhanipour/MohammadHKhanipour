@@ -45,7 +45,7 @@ So here I am, building software stuff! :computer::rocket:
 
 
 ### :two: Profile Visits
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MohammadHKhanipour) </br>
-This seems to be broken 🤨🤔 but it's cool so I'll keep it here :smiley:
+![visitors](https://visitor-badge.glitch.me/badge?page_id=MohammadHKhanipour)
+
 ### :three: Stats
 ![Mohammad Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadHKhanipour&hide=stars&theme=jolly&show_icons=true)
