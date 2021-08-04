@@ -14,7 +14,7 @@ So here I am, building software stuff! :computer:
 ### :one: Facts and Info
 + :seedling: I love helping others :smiley:, so if I can be of **any** assisstance don't hesitate to contact me.
 + :e-mail: Contact me: mohammadhkhanipour@outlook.com
-+ :sparkles: Professional Dot Connector :exclamation:
++ :sparkles: Professional Dot Connector :exclamation:</br>
   [Steve Jobs' 2005 Stanford Commencement Address
 ](https://www.youtube.com/watch?v=UF8uR6Z6KLc)
 + :video_game: Kinda a Minecraft veteran :sunglasses:
@@ -31,7 +31,7 @@ So here I am, building software stuff! :computer:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45" />
 </p>
 
 + :scroll: Interested in peeking into:
