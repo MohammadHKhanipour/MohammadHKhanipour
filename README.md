@@ -7,8 +7,8 @@
 </p>
 
 ### :zero: About
-I'm a **.NET** Developer and also a full-time learner. :blush::orange_book:
-Since a young age I've always liked to build things. :hammer::wrench:
+I'm a **.NET** Developer and also a full-time learner. :blush::orange_book: </br>
+Since a young age I've always liked to build things. :hammer::wrench:</br>
 So here I am, building software stuff! :computer:
 
 ### :one: Facts and Info
