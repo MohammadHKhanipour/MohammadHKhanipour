@@ -15,7 +15,7 @@ So here I am, building software stuff! :computer::rocket:
 + :seedling: I love helping others :smiley:, so if I can be of **any** assisstance don't hesitate to contact me.
 + :e-mail: Contact me: mohammadhkhanipour@outlook.com
 + :sparkles: Professional Dot Connector :exclamation:</br>
-  [Steve Jobs' 2005 Stanford Commencement Address
+  :red_circle: [Steve Jobs' 2005 Stanford Commencement Address
 ](https://www.youtube.com/watch?v=UF8uR6Z6KLc)
 + :video_game: Kinda a Minecraft veteran :sunglasses:
 + :speech_balloon: Most favorite string ever: `"Hello World!"` :heart:
