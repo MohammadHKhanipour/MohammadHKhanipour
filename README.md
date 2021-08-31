@@ -5,7 +5,6 @@
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
 </a>
 </p>
-[![HackerRank Profile](https://img.shields.io/badge/HackerRank-Profile-%232EC866?logo=hackerrank)](https://www.hackerrank.com/mamali_hassan?hr_r=1)
 
 ### :zero: About
 I'm a **.NET** Developer and also a full-time learner. :blush::orange_book: </br>
